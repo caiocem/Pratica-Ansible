@@ -2,17 +2,17 @@
 
 ## Instruções iniciais para se fazer o exercício:
 
-Nesta fase, o exercício tem o objetivo de avaliar: a capacidade do candidato a aprender dado uma demanda, de apresentar resultados satisfatórios dado o conteúdo aprendido mesmo quando faltam detalhamento da especificação, a capacidade de escrever bons textos e comentários, da capacidade de escrever um código legível, da capacidade de se organizar e da capacidade de deixar um trabalho continuável por outros, sem que seja necessário uma explicação síncrona entre as pessoas.
+Nesta fase, o exercício tem o objetivo de avaliar: a capacidade do candidato a aprender dada uma demanda, de apresentar resultados satisfatórios dado o conteúdo aprendido mesmo quando falta detalhamento da especificação, a capacidade de escrever bons textos e comentários, da capacidade de escrever um código legível, da capacidade de se organizar e da capacidade de deixar um trabalho continuável por outros, sem que seja necessário uma explicação síncrona entre as pessoas.
 
 Apesar de não termos controle sobre o que o candidato já sabe, o processo foi desenvolvido de forma que não é esperado que o candidato tenha o conhecimento dos assuntos tratados abaixo. O tempo usado para entregar os resultados não serão utilizado como critério de avaliação, desde que não ultrapasse a data final estipulada. Faz parte do trabalho pesquisar sobre o assunto tratado de forma isolada na internet e/ou livros, sem a ajuda de terceiros. Na fase da apresentação dos resultados haverão perguntas com o objetivo de identificar fraudes.
 
-Mesmo que você não seja selecionado para seguir conosco neste momento, o conhecimento aqui escolhido para ser estudado será util para sua vida profissional e você terá um feedback gratuito da sua submissão. 
+Mesmo que você não seja selecionado para seguir conosco neste momento, o conhecimento aqui escolhido para ser estudado será útil para sua vida profissional e você terá um feedback gratuito da sua submissão. 
 
 Como este é um processo de estágio legal, não poderemos tirar dúvidas técnicas no decorrer do processo. Qualquer falta de informação técnica, assuma alguma direção e continue o trabalho de acordo com o que acredita que faça sentido, explicando suas decisões tomadas no arquivo README.md que estarão junto ao código fonte submetido.
 
 Será dado o prazo de duas semanas para entrega dos resultados a partir do recebimento do email que dispara essas informações. Entendemos que todos tem suas obrigações, mas cremos que no espaço de duas semanas seja possível alocar horas suficientes para a realização do trabalho. 
 
-Na falta de trabalhos submetidos completos, avaliaremos trabalhos submetidos parcialmente, seguindo os mesmo critérios acima.
+Na falta de trabalhos submetidos completos, avaliaremos trabalhos submetidos parcialmente, seguindo os mesmo critérios acima. Quando houver um trabalho submetido mais de uma vez, somente o ultimo será considerado.
 
 O exercício será desenvolvimento em computador próprio, que deverá ter espaço suficiente para executar uma máquina virtual nova.
 
