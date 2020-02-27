@@ -12,7 +12,7 @@ Como este é um processo de estágio legal, não poderemos tirar dúvidas técni
 
 Será dado o prazo de duas semanas para entrega dos resultados a partir do recebimento do email que dispara essas informações. Entendemos que todos tem suas obrigações, mas cremos que no espaço de duas semanas seja possível alocar horas suficientes para a realização do trabalho. 
 
-Na falta de trabalhos submetidos completos, avaliaremos trabalhos submetidos parcialmente, seguindo os mesmo critérios acima. Quando houver um trabalho submetido mais de uma vez, somente o ultimo será considerado.
+Quando houver um trabalho submetido mais de uma vez, somente o ultimo será considerado. Na falta de trabalhos submetidos completos, avaliaremos trabalhos submetidos parcialmente, seguindo os mesmo critérios acima. 
 
 O exercício será desenvolvimento em computador próprio, que deverá ter espaço suficiente para executar uma máquina virtual nova.
 
